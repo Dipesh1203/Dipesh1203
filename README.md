@@ -1,21 +1,20 @@
-<h1 align="center">Hello, I'm Dipesh Prajapat 👋</h1>
-<h3 align="center">Full Stack Developer | Backend Specialist</h3>
+Hi 👋 My name is Dipesh Prajapat
+================================
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dipesh1203&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+Full Stack Developer | Backend Specialist
+-----------------------------------------
+
+Full-Stack Developer specializing in API development and backend engineering with hands-on experience in Node.js, Express.js, and scalable RESTful architectures. Skilled in building responsive, user-centric web applications, I bring expertise in React.js, MongoDB, and PostgreSQL. With a proven record in team leadership, problem-solving, and mentorship, I’m passionate about delivering reliable, secure, and high-performance solutions to meet dynamic business needs.
+
+*   🖥️  See my portfolio at [My portfolio](http://skill-magnet-pearl.vercel.app/profile/670294b0eb60ff7d98d9bc1e)
+*   ✉️  You can contact me at [prajapatdipesh1203@gmail.com](mailto:prajapatdipesh1203@gmail.com)
+*   🧠  I'm learning AI/ML , WEB 3 & Blockchain
+*   🤝  I'm open to collaborating on AI/ML & WEB 3 Projects
+
 
 ---
 
-### 🚀 Current Projects
-- **[Skill Magnet](https://github.com/Dipesh1203/Skill_Magnet.git)** — A dynamic platform where users can showcase their portfolios.
 
-### 🌱 Learning Focus
-- Currently honing my skills in **Next.js** and **TypeScript** to build scalable web applications.
-
-### 💡 Expertise
-- **Backend Development**: Express.js, Node.js, MongoDB, PostgreSQL
-- **Frontend Development**: React.js, Tailwind CSS, JavaScript
 
 ### 🤝 Connect With Me
 - **Email**: [dipeshprajapat1209@gmail.com](mailto:dipeshprajapat1209@gmail.com)
@@ -26,7 +25,8 @@
 
 
 ## 🌐 Connect with Me:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/dipesh1203) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dipesh-prajapat120309317719/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipesh-prajapat120309317719/)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/dipesh1203) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipesh-prajapat120309317719/)
 [![CodeChef](https://img.shields.io/badge/CodeChef-%235B4638.svg?logo=codechef&logoColor=white)](https://www.codechef.com/users/dipesh122003)
 [![Codeforces](https://img.shields.io/badge/Codeforces-%231F8ACB.svg?logo=codeforces&logoColor=white)](https://codeforces.com/profile/dipesh1203)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/dipesh1203)
@@ -47,6 +47,8 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=dipesh1203&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dipesh1203&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
