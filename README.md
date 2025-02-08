@@ -1,10 +1,10 @@
 Hi 👋 My name is Dipesh Prajapat
 ================================
 
-Full Stack Developer | Backend Specialist
+Backend Developer 
 -----------------------------------------
 
-Full-Stack Developer specializing in API development and backend engineering with hands-on experience in Node.js, Express.js, and scalable RESTful architectures. Skilled in building responsive, user-centric web applications, I bring expertise in React.js, MongoDB, and PostgreSQL. With a proven record in team leadership, problem-solving, and mentorship, I’m passionate about delivering reliable, secure, and high-performance solutions to meet dynamic business needs.
+Backend Developer specializing in API development and backend engineering with hands-on experience in Node.js, Express.js, and scalable RESTful architectures. Skilled in building responsive, user-centric web applications, I bring expertise in React.js, Node.js, MongoDB, and PostgreSQL. With a proven record in team leadership, problem-solving, and mentorship, I’m passionate about delivering reliable, secure, and high-performance solutions to meet dynamic business needs.
 
 *   🖥️  See my portfolio at [My portfolio](http://skill-magnet-pearl.vercel.app/profile/670294b0eb60ff7d98d9bc1e)
 *   ✉️  You can contact me at [prajapatdipesh1203@gmail.com](mailto:prajapatdipesh1203@gmail.com)
