@@ -13,8 +13,6 @@ Full Stack Developer specialising in API development and backend engineering wit
 
 ---
 
-
-
 ### 🤝 Connect With Me
 - **Email**: [dipeshprajapat1209@gmail.com](mailto:dipeshprajapat1209@gmail.com)
 - **LinkedIn**: [Dipesh Prajapat](https://www.linkedin.com/in/dipesh-prajapat120309317719/)
@@ -29,18 +27,6 @@ Full Stack Developer specialising in API development and backend engineering wit
 [Codeforces](https://codeforces.com/profile/dipesh1203) |
 [LeetCode](https://leetcode.com/dipesh1203) |
 
-
-# 📊 GitHub Stats:<div align="center">
-  <a href="https://github.com/dipesh1203">
-    <img src="https://github-readme-stats.vercel.app/api?username=dipesh1203&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
-  </a>
-  <a href="https://github.com/dipesh1203">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dipesh1203&theme=dark&hide_border=false" />
-  </a>
-  <a href="https://github.com/dipesh1203">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipesh1203&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-  </a>
-</div>
 
 
 
